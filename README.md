@@ -1,2 +1,3 @@
 # react-native-chat
-Chat projectw ith React native
+Chat project with React native
+<img src="./assets/images/readme_project_img.png" alt="project" />
